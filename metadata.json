@@ -1,0 +1,6 @@
+{
+  "name": "CodeSprint Academy",
+  "description": "Comprehensive 10-day HTML & CSS learning platform with 105+ validated MCQ exam system, interactive code playground, games, and reference library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
